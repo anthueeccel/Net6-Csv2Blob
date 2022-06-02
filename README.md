@@ -1,4 +1,4 @@
-![last_commit](https://img.shields.io/github/last-commit/anthueeccel/PocCsv) ![total_lines](https://img.shields.io/tokei/lines/github/anthueeccel/PocCsv) ![license](https://img.shields.io/github/license/anthueeccel/PocCsv)
+![last_commit](https://img.shields.io/github/last-commit/anthueeccel/Net6-Csv2Blob) ![total_lines](https://img.shields.io/tokei/lines/github/anthueeccel/Net6-Csv2Blob) ![license](https://img.shields.io/github/license/anthueeccel/Net6-Csv2Blob)
 
 ### .NET 6 - Import CSV
 * Project demonstrating how to import a CSV file and map to a class (entity) e send it to Azure BlobStorage container.
